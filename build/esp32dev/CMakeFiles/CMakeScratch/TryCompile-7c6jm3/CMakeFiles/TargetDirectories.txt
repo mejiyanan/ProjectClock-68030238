@@ -1,0 +1,3 @@
+D:/ESP32_Clock/.pio/build/esp32dev/CMakeFiles/CMakeScratch/TryCompile-7c6jm3/CMakeFiles/cmTC_cdf48.dir
+D:/ESP32_Clock/.pio/build/esp32dev/CMakeFiles/CMakeScratch/TryCompile-7c6jm3/CMakeFiles/edit_cache.dir
+D:/ESP32_Clock/.pio/build/esp32dev/CMakeFiles/CMakeScratch/TryCompile-7c6jm3/CMakeFiles/rebuild_cache.dir
